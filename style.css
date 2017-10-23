@@ -1,0 +1,26 @@
+body {
+    background: radial-gradient(red, cornflowerblue);
+    text-align: center;
+}
+.Linker {
+    background-color: gray;
+    color: black;
+    padding: 20px;
+    border: solid 1px;
+}
+.Linker:hover {
+    background-color: darkcyan;
+    color: white;
+}
+#Bilde {
+    border-radius: 10%;
+
+}
+h1 {
+    color: black;
+    text-shadow:
+            -1px -1px 2px white,
+            1px -1px 2px white,
+            -1px 1px 2px white,
+            1px 1px 2px white;
+}
